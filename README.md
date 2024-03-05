@@ -3,9 +3,9 @@
 <p><em>Student of gujarat university <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>working for cloud engineer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-[![Twitter: 0xvaishal](https://img.shields.io/twitter/follow/0xvaishal?style=social)](https://twitter.com/0xvaishal)
-[![Linkedin: bhavesh-panchal](https://img.shields.io/badge/-vaishalparikh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bhaveshpanchal/)](https://www.linkedin.com/in/bhaveshpanchal)
-[![GitHub bhaveshpa-ipcl](https://img.shields.io/github/followers/vaishalparikh?label=vaishalparikh&style=social)](https://github.com/bhaveshpa-icpl)
+[![Twitter: 0xshivaay](https://img.shields.io/twitter/follow/0xshivaaypanchal?style=social)](https://twitter.com/0x@shivaaypanchal)
+[![Linkedin: bhavesh-panchal01](https://img.shields.io/badge/-bhavesh-panchal01-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bhaveshpanchal/)](https://www.linkedin.com/in/bhavesh-panchal01)
+[![GitHub bhaveshpa-ipcl](https://img.shields.io/github/followers/bhaveshpa-icpl?label=bhaveshpanchal&style=social)](https://github.com/bhaveshpa-icpl)
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
