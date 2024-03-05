@@ -21,7 +21,7 @@ Widget build(BuildContext context){
 }
 ```
 
-<center><em><b>I love developing with React.Js!</b></em></center>
+<center><em><b>I love developing with shell script!</b></em></center>
 
 ---
 
